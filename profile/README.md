@@ -5,8 +5,8 @@
 <br/>
 
 <p align="center">
-  A declarative format for architectural contracts.<br/>
-  Write it once. Every AI session reads it first.
+  Reduces entropy in AI-generated code by orders of magnitude.<br/>
+  Same spec, any agent, any session: identical architecture.
 </p>
 
 <br/>
